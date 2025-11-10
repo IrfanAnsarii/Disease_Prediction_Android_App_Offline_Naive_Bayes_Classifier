@@ -2,6 +2,7 @@
 
 ## 🎯 Project Overview
 A fully offline Android application built with **Kotlin** and **Jetpack Compose** that predicts diseases based on symptoms using a manually implemented **Naive Bayes Classifier**.
+[Download APK](https://github.com/IrfanAnsarii/Disease_Prediction_Android_App_Offline_Naive_Bayes_Classifier/raw/91272eeb501938c764907d777a51256cdad698c7/DiseasePredication.apk)
 
 ## 🏗️ Architecture
 
