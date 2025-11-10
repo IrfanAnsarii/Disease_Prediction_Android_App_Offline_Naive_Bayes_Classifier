@@ -12,8 +12,6 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.irspace.diseaseprediction.ui.screens.DiseasePredictionApp
 import com.irspace.diseaseprediction.ui.theme.DiseasePredictionTheme
 import com.irspace.diseaseprediction.viewmodel.DiseasePredictionViewModel
-import com.irspace.diseaseprediction.ui.screens.DiseasePredictionApp
-import com.irspace.diseaseprediction.ui.theme.DiseasePredictionTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
